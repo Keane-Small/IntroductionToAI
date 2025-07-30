@@ -2,7 +2,7 @@
 This course covers core AI concepts, including deep learning, machine learning, and neural networks. You’ll examine generative AI models, including large language models (LLMs) and their capabilities.
 
 
-## Module 1
+## Introduction to AI
 
 ### Traditional AI Framework
 
@@ -82,3 +82,20 @@ Although some chatbots have reportedly passed the Turing Test, the bar for true 
 
 The conversation highlights the rapid advancements in AI technology, suggesting we are closer to achieving AGI than ever before.
 Despite progress, the speakers agree that we have not yet reached a point where AI can fully replicate human-like intelligence across diverse tasks.
+
+## Impact and Applications of AI
+
+### Common Use Cases of AI
+
+AI personalizes digital experiences, such as social media feeds and online shopping recommendations, by analyzing user preferences and behaviors.
+Virtual assistants like Siri and Alexa automate tasks in smart homes, enhancing convenience and energy efficiency.
+
+### Benefits of AI in Daily Life
+
+AI improves security through biometric authentication, fraud detection, and enhanced surveillance systems.
+In healthcare, AI chatbots and wearables monitor health metrics and provide support, aiding in early diagnosis and personalized treatment.
+
+### Enhancements Through AI Technology
+
+AI enhances smartphone functionalities, such as camera features and predictive text in messaging apps.
+Navigation apps utilize AI to optimize travel routes, improving daily commutes and travel planning.
